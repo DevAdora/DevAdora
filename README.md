@@ -56,10 +56,8 @@
  💬📫 - You can message me through:<a href=""> raireyesjr@gmail.com</a>
   </p>
 
-<p align ='center'>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-</p>
 
 
 <!--
