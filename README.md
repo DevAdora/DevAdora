@@ -3,9 +3,10 @@
 
 <h3 align = 'center'>Hey There 👋</h3>
 <h1 align = 'center'> I'm Rai M. Reyes Jr.</h1>
-<p align ='center' width='350'>
-![Icon](https://github.com/DevAdora/Code-by-Ar-ar/blob/main/LOGO%20(Desktop%20Wallpaper).png?raw=true)
+<p align='center'>
+  <img src="https://github.com/DevAdora/Code-by-Ar-ar/blob/main/LOGO%20(Desktop%20Wallpaper).png?raw=true" alt="Icon" width="350">
 </p>
+
 <h5 align = 'center'>Aspiring </h5> 
 <h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
    <h3 align = 'center'> From the Philippines</h3>
