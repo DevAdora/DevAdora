@@ -7,7 +7,7 @@
   <img src="https://github.com/DevAdora/Code-by-Ar-ar/blob/main/LOGO%20(Desktop%20Wallpaper).png?raw=true" alt="Icon" width="350">
 </p>
 
-<h5 align = 'center'>Aspiring </h5> 
+<h4 align = 'center'>Aspiring </h4> 
 <h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
    <h3 align = 'center'> From the Philippines</h3>
 
