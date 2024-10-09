@@ -9,7 +9,6 @@
 
 <h4 align = 'center'>Aspiring </h4> 
 <h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
-   <h3 align = 'center'> From the Philippines</h3>
 
 
    
@@ -57,10 +56,6 @@
 <br>
 <br>
 
-
- <p align='center'>
- 💬📫 - You can message me through:<a href=""> raireyesjr@gmail.com</a>
-  </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
