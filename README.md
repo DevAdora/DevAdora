@@ -18,7 +18,7 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 Here are some technologies and tools I'm proficient in:
 
-- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress
+- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net
 - **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
