@@ -6,8 +6,6 @@
 
 Hello! I'm Devadora, a passionate student and freelancer aiming to become a software developer, with a focus on JavaScript. I enjoy working on projects that involve web development and mobile apps, and I'm currently diving into **Dart** and **Flutter** to expand my skill set. When I'm not coding, you can find me either lost in video games 🎮 or binge-watching Netflix series! 
 
-  <img src="https://github.com/DevAdora/Code-by-Ar-ar/blob/main/LOGO%20(Desktop%20Wallpaper).png?raw=true" alt="Icon" width="350">
-
 
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
