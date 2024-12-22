@@ -18,7 +18,7 @@ Here are some technologies and tools I'm proficient in:
 
 - **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net
 - **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express, Expo
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, Firebase
 - **Version Control:** Git, GitHub
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
