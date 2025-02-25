@@ -9,7 +9,7 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
-- 💼 **Current Role:** Student and Freelancer
+- 💼 **Current Role:** Student, Freelancer and Trainee
 - 🌱 **Currently learning:** Dart, Flutter and React Native
 
 ## 🛠️ Skills
