@@ -39,7 +39,7 @@ Here are some technologies and tools I'm proficient in:
 <br>
 
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 
