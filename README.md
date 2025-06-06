@@ -9,16 +9,16 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
-- 💼 **Current Role:** Student, Freelancer and Trainee
-- 🌱 **Currently learning:** Dart, Flutter and React Native
+- 💼 **Current Role:** Student and Freelancer
+- 🌱 **Currently learning:** React (Redux, Slice and Thunk)
 
 ## 🛠️ Skills
 
 Here are some technologies and tools I'm proficient in:
 
-- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net
+- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Flutter, React Native
 - **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express, Expo
-- **Databases:** MySQL, MongoDB, Firebase
+- **Databases:** MySQL, MongoDB, Firebase, PostgreSQL
 - **Version Control:** Git, GitHub
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
