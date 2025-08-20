@@ -9,17 +9,18 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
-- 💼 **Current Role:** Student and Freelancer
-- 🌱 **Currently learning:** React (Redux, Slice and Thunk)
+- 💼 **Current Role:** Freelancer
+- 🌱 **Currently learning:** React (NextJS)
 
 ## 🛠️ Skills
 
 Here are some technologies and tools I'm proficient in:
 
-- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Flutter, React Native
-- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express, Expo
-- **Databases:** MySQL, MongoDB, Firebase, PostgreSQL
-- **Version Control:** Git, GitHub
+- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Flutter, Dart, React Native, PHP
+- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS
+- **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Supabase
+- **Libraries:** ShadCN, ShadCN UI, React Redux
+- **Version Control:** Git, GitHub, XAMPP
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
