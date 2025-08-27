@@ -10,16 +10,16 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
 - 💼 **Current Role:** Freelancer
-- 🌱 **Currently learning:** React (NextJS)
+- 🌱 **Currently learning:** React, Vite and GSAP
 
 ## 🛠️ Skills
 
 Here are some technologies and tools I'm proficient in:
 
 - **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Flutter, Dart, React Native, PHP
-- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS
+- **Frameworks:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS
 - **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Supabase
-- **Libraries:** ShadCN, ShadCN UI, React Redux
+- **Libraries:** ShadCN, ShadCN UI, React Redux, GSAP
 - **Version Control:** Git, GitHub, XAMPP
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
