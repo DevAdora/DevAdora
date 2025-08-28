@@ -10,7 +10,7 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
 - 💼 **Current Role:** Freelancer
-- 🌱 **Currently learning:** React, Vite and GSAP
+- 🌱 **Currently learning:** React, Vite, Framer and GSAP
 
 ## 🛠️ Skills
 
@@ -21,6 +21,7 @@ Here are some technologies and tools I'm proficient in:
 - **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Supabase
 - **Libraries:** ShadCN, ShadCN UI, React Redux, GSAP
 - **Version Control:** Git, GitHub, XAMPP
+- **Hosting:** Vercel and Netlify
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
