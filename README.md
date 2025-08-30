@@ -16,12 +16,55 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 Here are some technologies and tools I'm proficient in:
 
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>
+
+
+### 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/Aur4e_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" style="color:#1DA1F2"/>
+  </a>
+  <a href="https://www.instagram.com/mkdnightr8i_n/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/2r.reyes" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
+  </a>
+</p>
+
+<!--
 - **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Dart, React Native, PHP
 - **Frameworks:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS, Flutter
 - **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Supabase
 - **Libraries:** ShadCN, ShadCN UI, React Redux, GSAP
 - **Version Control:** Git, GitHub, XAMPP
 - **Hosting:** Vercel and Netlify
+
+
    <h3 align = 'center'> Socials</h3
 <p align = 'center' border = '1px solid black'>
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
@@ -37,6 +80,8 @@ Here are some technologies and tools I'm proficient in:
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rai"  />
    </a>
 </p>
+
+--> 
 <br>
 <br>
 
@@ -44,7 +89,6 @@ Here are some technologies and tools I'm proficient in:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevAdora&repo=DevAdora)](https://github.com/DevAdora/DevAdora)
 
 
 
