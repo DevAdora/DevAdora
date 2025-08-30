@@ -39,19 +39,18 @@ Here are some technologies and tools I'm proficient in:
 </p>
 
 
-### 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
+  <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/Aur4e_" target="_blank">
+  <a href="https://twitter.com/Aur4e_" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" style="color:#1DA1F2"/>
   </a>
-  <a href="https://www.instagram.com/mkdnightr8i_n/" target="_blank">
+  <a href="https://www.instagram.com/mkdnightr8i_n/" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com/2r.reyes" target="_blank">
+  <a href="https://www.facebook.com/2r.reyes" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
   </a>
 </p>
@@ -84,11 +83,13 @@ Here are some technologies and tools I'm proficient in:
 --> 
 <br>
 <br>
+<p align="center">
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" alt="GitHub Stats" height="160" style="padding: 10px;" />
+</p>
 
 
 
