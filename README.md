@@ -40,6 +40,13 @@ Here are some technologies and tools I'm proficient in:
 <br>
 <br>
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevAdora&repo=DevAdora)](https://github.com/DevAdora/DevAdora)
+
+
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
