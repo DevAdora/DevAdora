@@ -16,8 +16,8 @@ Hello! I'm Devadora, a passionate student and freelancer aiming to become a soft
 
 Here are some technologies and tools I'm proficient in:
 
-- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Flutter, Dart, React Native, PHP
-- **Frameworks:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS
+- **Languages:** JavaScript, Python, HTML/CSS, C++, Wordpress, VB.Net, Dart, React Native, PHP
+- **Frameworks:** React, Tailwind CSS, Bootstrap, Node, Express, Expo, NextJS, Flutter
 - **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Supabase
 - **Libraries:** ShadCN, ShadCN UI, React Redux, GSAP
 - **Version Control:** Git, GitHub, XAMPP
