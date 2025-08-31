@@ -4,17 +4,13 @@
 
 ## 🎯 About Me
 
-Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a software developer. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! 
+Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined variable in the industry. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! 
 
 
 - 🌍 **Location:** Philippines
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
-- 💼 **Current Role:** Freelancer
-- 🌱 **Currently learning:** React, Vite, Framer and GSAP
-
-## 🛠️ Skills
-
-Here are some technologies and tools I'm proficient in:
+- 💼 **Current Role:** Looking for Job 😭
+- 🌱 **Currently learning:** React, Vite, Framer and GSA
 
 ### 🛠️ Languages and Tools
 
