@@ -4,7 +4,7 @@
 
 ## 🎯 About Me
 
-Hello! I'm Devadora, a passionate student and freelancer aiming to become a software developer. I enjoy working on projects that involve software development, and I'm currently diving into **Dart** and **Flutter** to expand my skill set. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! 
+Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a software developer. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! 
 
 
 - 🌍 **Location:** Philippines
