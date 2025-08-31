@@ -44,15 +44,7 @@ Here are some technologies and tools I'm proficient in:
   <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/Aur4e_" target="_blank" style="text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" style="color:#1DA1F2"/>
-  </a>
-  <a href="https://www.instagram.com/mkdnightr8i_n/" target="_blank" style="text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/2r.reyes" target="_blank" style="text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
-  </a>
+
 </p>
 
 <!--
