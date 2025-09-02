@@ -12,7 +12,7 @@ Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined va
 - 💼 **Current Role:** Looking for Job 😭
 - 🌱 **Currently learning:** React, Vite, Framer and GSA
 
-### 🛠️ Languages and Tools
+### 🛠️ Techy Stacky
 
 <p align="center">
   <!-- Languages -->
