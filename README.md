@@ -75,7 +75,7 @@ Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined va
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora" alt="GitHub Stats" height="160" style="padding: 10px;" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical" alt="GitHub Stats" height="160" style="padding: 10px;" /> 
 <img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" alt="GitHub Stats" height="160" style="padding: 10px;" />
 </p>
 
