@@ -10,7 +10,7 @@ Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined va
 - 🌍 **Location:** Philippines, Kabankalan
 - 🎓 **Education:** Bachelor of Science in Information Technology, 2025
 - 💼 **Current Role:** Freelance Software Developer
-- 🌱 **Currently learning:** React, Vite, Framer and GSA
+- 🌱 **Currently learning:** React, Express and MongoDB (Re-learning)
 
 ### 🛠️ Techy Stacky
 
