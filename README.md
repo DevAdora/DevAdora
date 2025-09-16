@@ -4,7 +4,7 @@
 
 ## 🎯 About Me
 
-Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined variable in the industry. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! Aspiring Software Developer 👩🏻‍💻 and currently a freelancer </> based in Philippines 📍.
+Hello! I'm Devadora, an IT Graduate 👩🏻‍💻 and currently a freelancer </> based in Philippines 📍, aiming to become a defined variable in the industry. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series!
 
 ### 🛠️ Techy Stacky
 
