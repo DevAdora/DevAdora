@@ -75,7 +75,7 @@ Hello! I'm Devadora, an IT Graduate 👩🏻‍💻 and currently a freelancer <
 
 
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 
 
