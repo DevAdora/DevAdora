@@ -4,13 +4,7 @@
 
 ## 🎯 About Me
 
-Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined variable in the industry. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! 
-
-
-- 🌍 **Location:** Philippines, Kabankalan
-- 🎓 **Education:** Bachelor of Science in Information Technology, 2025
-- 💼 **Current Role:** Freelance Software Developer
-- 🌱 **Currently learning:** MERN Stack (Re-learning)
+Hello! I'm Devadora, an IT Graduate and freelancer aiming to become a defined variable in the industry. I enjoy working on projects that involve software development. When I'm not coding, you can find me either lost in video games 🎮, reading a book or binge-watching some movies or series! Aspiring Software Developer 👩🏻‍💻 and currently a freelancer </> based in Philippines 📍.
 
 ### 🛠️ Techy Stacky
 
