@@ -23,7 +23,6 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 </p>
 
 ---
@@ -58,8 +57,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Loki_icon.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Zabbix_logo.svg" width="50" height="50" />
+
 </p>
 
 ---
