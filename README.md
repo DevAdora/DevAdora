@@ -12,7 +12,20 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Techy Stacky
+<p>
+ <p>🎨 Frontend Development: HTML, CSS, JavaScript, React, NextJS, Tailwind</p><br>
+ <p>📱 Mobile Development: React Native (Expo), Flutter</p><br>
+ <p>⚙️ Backend Development: NodeJS, Express, Python, PHP, C++</p><br>
+ <p>🗃️ Databases: MySQL, MongoDB, PostgreSQL, Firebase, Supabase, SQLite</p><br>
+ <p>💻 Tools & Platforms: Vercel, Netlify, Visual Studio Code, Linux, Ubuntu</p><br>
+ 
+</p>
+
+
+
+
+<!--
 
  
   <p>🎨 Frontend Development</p>
@@ -48,7 +61,6 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 </p>
 
 
-<!--
 ### ☁️ DevOps / Monitoring / CI-CD Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
@@ -59,7 +71,6 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="50" height="50" />
 
 </p>
--->
 
 
 
@@ -90,3 +101,4 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+-->
