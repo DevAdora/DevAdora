@@ -14,8 +14,9 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+ 
 <p align="center">
+  <p>🎨 Frontend Development</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
@@ -24,11 +25,9 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" height="25" />
 </p>
-
----
-
-### ⚙️ Backend Development
 <p align="center">
+  <p>⚙️ Backend Development</p> 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" />
@@ -36,10 +35,10 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25" />
 </p>
 
----
-
-### 🗃️ Databases
+ 
 <p align="center">
+    <p>🗃️ Databases</p> 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25" />
@@ -47,7 +46,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="25" height="25" />
 </p>
 
----
+
 <!--
 ### ☁️ DevOps / Monitoring / CI-CD Tools
 <p align="center">
@@ -60,10 +59,12 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 </p>
 -->
----
 
-### 💻 Tools & Platforms
+
+
 <p align="center">
+      <p>💻 Tools & Platforms</p> 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" />
