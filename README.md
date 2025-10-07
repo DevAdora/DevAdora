@@ -17,7 +17,6 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
  
   <p>🎨 Frontend Development</p>
   <p align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
@@ -25,7 +24,9 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" height="25" />
-</p>
+  </p>
+
+
   <p>⚙️ Backend Development</p> 
 <p align="center">
 
@@ -36,10 +37,9 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25" />
 </p>
 
- 
-    <p>🗃️ Databases</p> 
-<p align="center">
 
+<p>🗃️ Databases</p> 
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25" />
@@ -63,9 +63,8 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 
 
-      <p>💻 Tools & Platforms</p> 
+<p>💻 Tools & Platforms</p> 
 <p align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" />
