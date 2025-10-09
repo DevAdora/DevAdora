@@ -1,6 +1,6 @@
 ## 🎯 About Me
 
-Hello! I'm **Devadora**, an **IT Graduate 👩🏻‍💻** and current **freelancer** based in the **Philippines 📍**, aiming to become a defined variable in the tech industry.  
+Hello! I'm **Devadora**, an **IT Graduate 👩🏻‍💻**, **Software Developer** and a **freelancer** based in the **Philippines 📍**, aiming to become a defined variable in the tech industry.  
 I enjoy building creative and functional projects involving software development, web apps, and system monitoring tools.  
 When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **binge-watching movies or series 🎬**!
 
