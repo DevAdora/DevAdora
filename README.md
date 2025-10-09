@@ -18,7 +18,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
  <p>📱 Mobile Development: React Native (Expo), Flutter</p>
  <p>⚙️ Backend Development: NodeJS, Express, Python, PHP, C++</p>
  <p>🗃️ Databases: MySQL, MongoDB, PostgreSQL, Firebase, Supabase, SQLite</p>
- <p>💻 Tools & Platforms: Vercel, Netlify, Visual Studio Code, Linux, Ubuntu</p>
+ <p>💻 Tools & Platforms: Vercel, Visual Studio Code, Linux</p>
  
 </p>
 
