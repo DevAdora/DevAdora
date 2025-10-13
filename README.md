@@ -7,7 +7,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 ---
 
 ## 🧠 Currently Learning
-- DevOps Tools: **Docker**, **Grafana**, **Prometheus**, **Loki**, **Zabbix**, **Ansible**, and **OpenVCS (Git-based systems)**
+- DevOps Tools: **Laravel**, **Docker**, **Grafana**, **Prometheus**, **Loki**, **Zabbix**, **Ansible**, and **OpenVCS (Git-based systems)**
 - Improving backend scalability and cloud deployment skills ☁️
 
 ---
