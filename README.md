@@ -82,8 +82,8 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" />
 </p>
+-->
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -93,7 +93,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   <img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" height="160" />
 </p>
 
----
+<!---
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -101,4 +101,5 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 -->
