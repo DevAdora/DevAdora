@@ -14,9 +14,10 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 ## 🛠️ Techy Stacky
 <p>
- <p>🎨 Frontend Development: HTML, CSS, JavaScript, React, NextJS, Tailwind</p>
+ <p>🎨 Frontend Development: HTML, CSS, JavaScript, React, NextJS, Tailwind, Vite</p>
  <p>📱 Mobile Development: React Native (Expo), Flutter</p>
- <p>⚙️ Backend Development: NodeJS, Express, Python, PHP, C++</p>
+ <p>💻 Desktop Development: Electron, VB.net</p>
+ <p>⚙️ Backend Development: NodeJS, Express, Python, PHP (Laravel), C++</p>
  <p>🗃️ Databases: MySQL, MongoDB, PostgreSQL, Firebase, Supabase, SQLite</p>
  <p>💻 Tools & Platforms: Vercel, Visual Studio Code, Linux</p>
  
