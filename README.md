@@ -7,7 +7,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 ---
 
 ## 🧠 Currently Learning
-- DevOps Tools: **Laravel**, **Docker**, **Grafana**, **Prometheus**, **Loki**, **Zabbix**, **Ansible**, and **OpenVCS (Git-based systems)**
+- DevOps Tools: **Laravel**, **Docker** and **Basic Networking Management**
 - Improving backend scalability and cloud deployment skills ☁️
 
 ---
@@ -20,6 +20,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
  <p>⚙️ Backend Development: NodeJS, Express, Python, PHP (Laravel), C++</p>
  <p>🗃️ Databases: MySQL, MongoDB, PostgreSQL, Firebase, Supabase, SQLite</p>
  <p>💻 Tools & Platforms: Vercel, Visual Studio Code, Linux</p>
+ <p>📜 Libraries: ShadCN, Tanstack, Sonner, Redux, Lucide-react</p>
  
 </p>
 
