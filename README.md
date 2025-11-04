@@ -11,9 +11,9 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 - Improving backend scalability and cloud deployment skills ☁️
 
 ---
+```shell
 
 # 🛠️ Techy Stacky
-> devadora --show-tech-stack
 
 🎨 Frontend Development
   ├── HTML
@@ -58,6 +58,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
   ├── Sonner
   ├── Redux
   └── Lucide-react
+```
 
 
 
