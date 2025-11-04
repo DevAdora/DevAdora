@@ -12,17 +12,53 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 
 ---
 
-## 🛠️ Techy Stacky
-<p>
- <p>🎨 Frontend Development: HTML, CSS, JavaScript, React, NextJS, Tailwind, Vite</p>
- <p>📱 Mobile Development: React Native (Expo), Flutter</p>
- <p>🖳 Desktop Development: Electron, VB.net</p>
- <p>⚙️ Backend Development: NodeJS, Express, Python, PHP (Laravel), C++</p>
- <p>🗃️ Databases: MySQL, MongoDB, PostgreSQL, Firebase, Supabase, SQLite</p>
- <p>💻 Tools & Platforms: Vercel, Visual Studio Code, Linux</p>
- <p>📜 Libraries: ShadCN, Tanstack, Sonner, Redux, Lucide-react</p>
- 
-</p>
+# 🛠️ Techy Stacky
+> devadora --show-tech-stack
+
+🎨 Frontend Development
+  ├── HTML
+  ├── CSS
+  ├── JavaScript
+  ├── React
+  ├── Next.js
+  ├── Tailwind CSS
+  └── Vite
+
+📱 Mobile Development
+  ├── React Native (Expo)
+  └── Flutter
+
+🖳 Desktop Development
+  ├── Electron
+  └── VB.NET
+
+⚙️ Backend Development
+  ├── Node.js
+  ├── Express
+  ├── Python
+  ├── PHP (Laravel)
+  └── C++
+
+🗃️ Databases
+  ├── MySQL
+  ├── MongoDB
+  ├── PostgreSQL
+  ├── Firebase
+  ├── Supabase
+  └── SQLite
+
+💻 Tools & Platforms
+  ├── Vercel
+  ├── Visual Studio Code
+  └── Linux
+
+📜 Libraries
+  ├── ShadCN
+  ├── TanStack
+  ├── Sonner
+  ├── Redux
+  └── Lucide-react
+
 
 
 
