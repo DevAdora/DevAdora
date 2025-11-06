@@ -1,3 +1,5 @@
+```shell
+
 ## 🎯 About Me
 
 Hello! I'm **Devadora**, an **IT Graduate 👩🏻‍💻**, **Software Developer** and a **freelancer** based in the **Philippines 📍**, aiming to become a defined variable in the tech industry.  
@@ -11,7 +13,7 @@ When I’m not coding, you’ll find me **gaming 🎮**, **reading 📚**, or **
 - Improving backend scalability and cloud deployment skills ☁️
 
 ---
-```shell
+
 
 # 🛠️ Techy Stacky
 
