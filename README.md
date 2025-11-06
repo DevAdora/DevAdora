@@ -1,15 +1,15 @@
 ```shell
 
-## 🎯 About Me
+🎯 About Me
 Hello! I'm **Devadora**, an IT Graduate 👩🏻‍💻, Software Developer and a freelancer based in the Philippines 📍, aiming to become a defined variable in the tech industry.  
 I enjoy building creative and functional projects involving software development, web apps, and system monitoring tools.  
 When I’m not coding, you’ll find me gaming 🎮, reading 📚, or binge-watching movies or series 🎬!
 
-## 🧠 Currently Learning
+🧠 Currently Learning
 DevOps Tools: Laravel, Docker and Basic Networking Management
 Improving backend scalability and cloud deployment skills ☁️
 
-# 🛠️ Techy Stacky
+🛠️ Techy Stacky
 🎨 Frontend Development - HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Vite | Flask (Python)
 📱 Mobile Development - React Native (Expo) | Dart (Flutter)
 💻 Desktop Development - Electron | VB.Net
