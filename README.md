@@ -12,7 +12,7 @@ Improving backend scalability and cloud deployment skills ☁️
 # 🛠️ Techy Stacky
 🎨 Frontend Development - HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Vite | Flask (Python)
 📱 Mobile Development - React Native (Expo) | Dart (Flutter)
-🖳 Desktop Development - Electron | VB.Net
+💻 Desktop Development - Electron | VB.Net
 ⚙️ Backend Development - Node.js | Express | Python | PHP (Laravel) | C++
 🗃️ Databases - MySQL | MongoDB | PostgreSQL | Firebase | Supabase | SQLite
 💻 Tools & Platforms - Vercel | Visual Studio Code | Linux
