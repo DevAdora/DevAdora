@@ -91,7 +91,7 @@ Improving backend scalability and cloud deployment skills ☁️
   <img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" height="160" /> -->
 </p>
 
-
+<!-- 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
@@ -100,3 +100,4 @@ Improving backend scalability and cloud deployment skills ☁️
 </p>
 
 
+-->
