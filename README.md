@@ -85,9 +85,9 @@ Improving backend scalability and cloud deployment skills ☁️
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=dark" height="160" />
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" height="160" /> -->
 </p>
 
