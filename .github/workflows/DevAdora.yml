@@ -17,10 +17,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "DevAdora"
+          git config --global user.email "2r.reiyhes@gmail.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
       - name: Commit & Push
         run: |
-          git config user.name "DevAdora"
-          git config user.email "2r.reiyhes@gmail.com"
           git add -A .
           git commit -m "generated" || echo "No changes"
           git push
