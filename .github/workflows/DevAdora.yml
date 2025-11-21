@@ -1,30 +1,77 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 6 PM UTC
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v4
+    runs-on: ubuntu-latest
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    steps:
+      # -----------------------------------------------------
+      # 1. Checkout repository
+      # -----------------------------------------------------
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Important for PAT commits
+          fetch-depth: 0
+
+      # -----------------------------------------------------
+      # 2. Generate the 3D Profile Contribution
+      # -----------------------------------------------------
+      - name: Generate 3D Profile Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # -----------------------------------------------------
+      # 3. Optional: Regenerate README badge or image link
+      # -----------------------------------------------------
+      - name: Update README Badge (Optional)
+        run: |
+          sed -i 's/Last Updated:.*/Last Updated: '"$(date -u +"%Y-%m-%d %H:%M UTC")"'/' README.md || true
+
+      # -----------------------------------------------------
+      # 4. Configure Git Identity (100% Activity Graph Safe)
+      # -----------------------------------------------------
       - name: Configure Git identity
         run: |
-          git config --global user.name "DevAdora"
-          git config --global user.email "2r.reiyhes@gmail.com"
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ secrets.GH_EMAIL }}"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
-      - name: Commit & Push
+      # -----------------------------------------------------
+      # 5. Detect if changes exist to avoid empty commits
+      # -----------------------------------------------------
+      - name: Check for changes
+        id: changes
         run: |
-          git add -A .
-          git commit -m "generated" || echo "No changes"
-          git push
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # -----------------------------------------------------
+      # 6. Commit & Push ONLY if changes exist
+      # -----------------------------------------------------
+      - name: Commit & Push Changes
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git add -A
+          git commit -m "Update 3D profile contribution graph [skip ci]"
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+
+      # -----------------------------------------------------
+      # 7. Log status for debugging (optional)
+      # -----------------------------------------------------
+      - name: Debug Info
+        run: |
+          echo "Changes detected: ${{ steps.changes.outputs.changed }}"
+          echo "Actor: ${{ github.actor }}"
