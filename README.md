@@ -83,7 +83,7 @@ Improving backend scalability and cloud deployment skills ☁️
 -->
 
 
-## 📊 GitHub Stats
+
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=dark" height="160" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=dark" height="160" /> -->
