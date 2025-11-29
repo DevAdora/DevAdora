@@ -17,6 +17,10 @@ Improving backend scalability and cloud deployment skills ☁️
 🗃️ Databases - MySQL | MongoDB | PostgreSQL | Firebase | Supabase | SQLite
 💻 Tools & Platforms - Vercel | Visual Studio Code | Linux
 📜 Libraries - ShadCN | TanStack | Sonner | Redux | Lucide-react
+
+
+📅 **Last Updated:** <span id="last-updated"></span>
+
 ```
 
 
