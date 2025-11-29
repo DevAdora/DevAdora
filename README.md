@@ -105,5 +105,4 @@ Improving backend scalability and cloud deployment skills ☁️
 
 -->
 
-📅 **Last Updated:** <span id="last-updated"></span>
 
