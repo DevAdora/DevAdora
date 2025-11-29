@@ -19,7 +19,6 @@ Improving backend scalability and cloud deployment skills ☁️
 📜 Libraries - ShadCN | TanStack | Sonner | Redux | Lucide-react
 
 
-📅 **Last Updated:** <span id="last-updated"></span>
 
 ```
 
@@ -105,3 +104,6 @@ Improving backend scalability and cloud deployment skills ☁️
 
 
 -->
+
+📅 **Last Updated:** <span id="last-updated"></span>
+
