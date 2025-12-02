@@ -1,5 +1,8 @@
 ```shell
 
+📅 **Last Updated:** (auto)
+
+
 🎯 About Me
 I'm Devadora, an IT Graduate 👩🏻‍💻, Software Developer and a freelancer based in the Philippines 📍, aiming to become a defined variable in the tech industry.  
 I enjoy building creative and functional projects involving software development, web apps, and system monitoring tools.  
@@ -94,6 +97,8 @@ Improving backend scalability and cloud deployment skills ☁️
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=DevAdora&theme=onedark" height="160" /> -->
 </p>
 
+📅 **Last Updated:** (auto)
+
 <!-- 
 ## 🔗 Connect with Me
 <p align="center">
@@ -104,5 +109,6 @@ Improving backend scalability and cloud deployment skills ☁️
 
 
 -->
+
 
 
