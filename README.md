@@ -4,7 +4,7 @@ $ devadora --status
 NAME        : Devadora
 ROLE        : IT Graduate • Software Developer • Freelancer
 LOCATION    : Philippines (PH)
-FOCUS       : Web Apps • Software Dev • System Monitoring Tools
+FOCUS       : Software Dev • Network • Cloud & Automation
 
 ACHIEVEMENTS:
   ✔ Shipped production-ready projects
