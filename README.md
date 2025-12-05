@@ -17,7 +17,7 @@ LEARNING:
   - Basic Networking Management
   - Backend scalability & cloud deployment
 
-LAST UPDATED: 2025-12-02 18:37 UTC
+Last Updated: 2025-12-02 18:37 UTC
 ```
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=dark" height="160" alt="GitHub Streak" />
