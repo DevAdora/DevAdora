@@ -10,7 +10,7 @@ Last Updated: 2025-12-13 01:28 UTC
 <div align="center">
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" height="180" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=city_lights" height="160" alt="GitHub Streak" />
 <img src="assets/bebop.gif" width="300" height="180"/>
 </p>
 <p align="center">
