@@ -8,10 +8,6 @@ Last Updated: 2025-12-13 01:28 UTC
 ```
 
 <div align="center">
-
----
-
-### ⚡ GitHub Activity
 <table>
 <tr>
 <td align="center">
@@ -22,8 +18,6 @@ Last Updated: 2025-12-13 01:28 UTC
 </td>
 </tr>
 </table>
----
-### 📊 Statistics & Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAdora&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdora&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10"/>
@@ -32,8 +26,6 @@ Last Updated: 2025-12-13 01:28 UTC
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B6B&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
----
-### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,redis&perline=10" />
@@ -44,7 +36,5 @@ Last Updated: 2025-12-13 01:28 UTC
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-
 
 </div>
