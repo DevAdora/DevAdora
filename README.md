@@ -18,7 +18,7 @@ Last Updated: 2025-12-20 01:37 UTC
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,c++,php,express,supabase,postgres,firebase,mysql,mongodb,aws,docker,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,cpp,php,express,supabase,postgres,firebase,mysql,mongodb,aws,docker,git,github&perline=10" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
