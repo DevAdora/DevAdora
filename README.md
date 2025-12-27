@@ -14,7 +14,7 @@ Last Updated: 2025-12-27 01:41 UTC
  <img src="assets/bebop.gif" width="300" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B6B&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
