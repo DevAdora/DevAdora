@@ -1,6 +1,6 @@
 ```shell
 $ devadora --status
-NAME        : Devadora
+NAME        : DevAdora
 ROLE        : IT Graduate • Software Developer • Freelancer
 LOCATION    : Philippines (PH)
 FOCUS       : Software Dev • Network • Cloud & Automation
