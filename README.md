@@ -13,9 +13,12 @@ Last Updated: 2026-01-05 01:54 UTC
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=city_lights" height="160" alt="GitHub Streak" />
  <img src="assets/bebop.gif" width="300" height="160"/>
 </p>
+
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,vite,js,ts,python,react,nextjs,nodejs,cpp,php,express,supabase,postgres,firebase,mysql,mongodb,aws,docker,git,github&perline=11" />
