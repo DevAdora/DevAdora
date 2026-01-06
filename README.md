@@ -10,7 +10,7 @@ Last Updated: 2026-01-06 01:45 UTC
 <div align="center">
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=city_lights" height="160" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAdora&theme=city_lights" height="160" alt="GitHub Streak" /> -->
  <img src="assets/bebop.gif" width="300" height="160"/>
 </p>
 
@@ -18,12 +18,12 @@ Last Updated: 2026-01-06 01:45 UTC
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
--->
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,vite,js,ts,python,react,nextjs,nodejs,cpp,php,express,supabase,postgres,firebase,mysql,mongodb,aws,docker,git,github&perline=11" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
+-->
 </div>
