@@ -3,7 +3,7 @@ $ devadora --status
 NAME        : DevAdora
 ROLE        : IT Graduate • Software Developer • Freelancer
 LOCATION    : Philippines (PH)
-FOCUS       : Software Dev • Network • Cloud & Automation
+FOCUS       : Software Dev • Network • Cloud & Automation • Life
 Last Updated: 2026-03-10 02:10 UTC
 ```
 
