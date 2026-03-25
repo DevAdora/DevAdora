@@ -1,7 +1,7 @@
 ```shell
 $ devadora --status
 NAME        : DevAdora
-ROLE        : IT Graduate • Software Developer • Freelancer
+ROLE        : Co-Founder of NECHAMA Studio • Software Developer • Freelancer
 LOCATION    : Philippines (PH)
 FOCUS       : Software Dev • Network • Cloud & Automation • Life
 Last Updated: 2026-03-25 02:27 UTC
