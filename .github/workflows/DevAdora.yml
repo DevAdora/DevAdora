@@ -1,80 +1,33 @@
-name: GitHub-Profile-3D-Contrib
+name: Update README Timestamp
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
-    name: generate-github-profile-3d-contrib
+  update-timestamp:
     runs-on: ubuntu-latest
-
     steps:
-      # -----------------------------------------------------
-      # 1. Checkout repository
-      # -----------------------------------------------------
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false  # Important for PAT commits
+          persist-credentials: false
           fetch-depth: 0
 
-      # -----------------------------------------------------
-      # 2. Generate the 3D Profile Contribution
-      # -----------------------------------------------------
-      - name: Generate 3D Profile Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # -----------------------------------------------------
-      # 3. Optional: Regenerate README badge or image link
-      # -----------------------------------------------------
-      - name: Update README Badge (Optional)
+      - name: Update Last Updated timestamp
         run: |
-          sed -i 's/Last Updated:.*/Last Updated: '"$(date -u +"%Y-%m-%d %H:%M UTC")"'/' README.md || true
+          sed -i "s/Last Updated:.*/Last Updated: $(date -u +"%Y-%m-%d %H:%M UTC")/" README.md
 
-      # -----------------------------------------------------
-      # 4. Configure Git Identity (100% Activity Graph Safe)
-      # -----------------------------------------------------
       - name: Configure Git identity
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
-      # -----------------------------------------------------
-      # 5. Detect if changes exist to avoid empty commits
-      # -----------------------------------------------------
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-
-      # -----------------------------------------------------
-      # 6. Commit & Push ONLY if changes exist
-      # -----------------------------------------------------
-      - name: Commit & Push Changes
-        if: steps.changes.outputs.changed == 'true'
+      - name: Commit & Push
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git add -A
-          git commit -m "Update 3D profile contribution graph [skip ci]"
-          git pull --rebase https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }} || true
+          git add README.md
+          git diff --cached --quiet && echo "No changes, skipping." && exit 0
+          git commit -m "chore: update README timestamp [skip ci]"
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
-
-
-
-      # -----------------------------------------------------
-      # 7. Log status for debugging (optional)
-      # -----------------------------------------------------
-      - name: Debug Info
-        run: |
-          echo "Changes detected: ${{ steps.changes.outputs.changed }}"
-          echo "Actor: ${{ github.actor }}"
