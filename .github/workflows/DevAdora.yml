@@ -1,4 +1,4 @@
-name: Update README Timestamp
+name: GitHub-README-Update-Profile
 
 on:
   schedule:
@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-timestamp:
+  build:
+    name: update-readme-timestamp
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
