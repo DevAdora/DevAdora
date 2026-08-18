@@ -6,11 +6,12 @@ LOCATION    : Philippines (PH)
 FOCUS       : Software Dev • Network • Cloud & Automation • Life
 Last Updated: 2026-08-18 01:06 UTC
 ```
-
+<!--
 <div align="center">
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=byrai&theme=shadow_brown" alt="GitHub Streak" /> 
 </p>
+-->
  <!--
 <p align="center">
  <img src="assets/bebop.gif"/>
