@@ -1,3 +1,5 @@
+
+<!--
 ```shell
 $ byrai --status
 NAME        : Rai M. Reyes Jr.
@@ -6,17 +8,17 @@ LOCATION    : Philippines (PH)
 FOCUS       : Software Dev • Network • Cloud & Automation • Life
 Last Updated: 2026-08-31 03:43 UTC
 ```
-<!--
+-->
 <div align="center">
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=byrai&theme=shadow_brown" alt="GitHub Streak" /> 
 </p>
--->
- <!--
+
+
 <p align="center">
  <img src="assets/bebop.gif"/>
 </p>
--->
+
 <!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAdora&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
